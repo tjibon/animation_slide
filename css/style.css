@@ -1,0 +1,45 @@
+/* Default Css Start */
+body{
+    overflow-x: hidden;
+    font-family: 'Roboto',sans-serif;
+  
+
+}
+a{
+    text-decoration: none;
+}
+ul{
+    list-style: none;
+    padding-left: 0;
+}
+button, input, optgroup, select, textarea {
+    /* margin: 0; */
+    font-family: inherit;
+    font-size: inherit;
+    line-height: inherit;
+}
+/* Default Css End */
+
+/* Google Font */
+
+
+a {
+    color: #fff;
+}
+
+a.festival-offer h2 {
+    font-size: 54px;
+    color: #812886;
+}
+
+.single-carousel-item{
+
+
+    position: relative;
+}
+.carousel-item-content {
+    position: absolute;
+    bottom: -13px;
+    left: 51px;
+    color: #fff;
+}
